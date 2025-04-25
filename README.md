@@ -1,6 +1,6 @@
 Aplicación de Gestion de Usuarios desarrollada en el entorno Visual Studio Code utilizando Spring Boot + Angular.
 
-Para el guardado de usuarios, solamente he desarrollado utilizando una base de datos de MySQL llamada usuarios.
+Para el guardado de usuarios, solamente he desarrollado utilizando una base de datos de MySQL llamada usuarios_zeo.
 En el fichero del proyecto donde se configura la conexión con dicha base de datos (src/main/resources/application.properties), el campo de la password para el usuario root lo he dejado en blanco para que pongáis vuestras credenciales.
 Dentro de la base de datos, solamente hay un usuario creado para que podáis hacer el login y probar la aplicación. Dicho usuario tiene los siguientes datos:
 
