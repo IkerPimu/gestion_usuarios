@@ -1,0 +1,8 @@
+.degradado1{
+    min-height: 100%;
+    background: #2A7B9B;
+    background: linear-gradient(180deg,rgba(42, 123, 155, 1) 46%, rgba(87, 199, 133, 1) 100%);
+}
+.negrita{
+    font-weight: bold;
+}
